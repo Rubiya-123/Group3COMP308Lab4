@@ -59,7 +59,7 @@ app.post("/api/generate", async (req, res) => {
 
     const data = await response.json();
 
-    console.log(data); // 👈 keep this for debugging
+    console.log(data); 
 
     const output =
       data.candidates?.[0]?.content?.parts?.[0]?.text ||
