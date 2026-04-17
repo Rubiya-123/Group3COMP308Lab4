@@ -56,6 +56,12 @@ Frontend runs on:
 
 http://localhost:3000
 
+**Application Screenshots:**
+<img width="1280" height="590" alt="1" src="https://github.com/user-attachments/assets/f17bd607-6ce1-453e-9dae-06abc05542dc" />
+
+<img width="1277" height="539" alt="2" src="https://github.com/user-attachments/assets/b237e625-923b-4ae3-a40f-6bb4cf5e6968" />
+
+
 **System Prompt (Prompt Engineering)**
 
 The backend uses the following system prompt to control the LLM output:
