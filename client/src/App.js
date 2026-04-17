@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1 className="title">🧠 AI Smart Notes</h1>
+      <h1 className="title">AI Smart Notes</h1>
 
       <div className="grid">
         {/* INPUT */}
